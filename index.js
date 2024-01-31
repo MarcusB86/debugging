@@ -4,11 +4,11 @@
 
 // SYNTAX ERRORS
 
-// 1.
-// let x = 10;
-// if (x > 5) {
-//     console.log("Hello, World!");
-// }
+1.
+let x = 10;
+if (x > 5) {
+    console.log("Hello, World!");
+}
 
 // SyntaxError: Unexpected token '{'
 
